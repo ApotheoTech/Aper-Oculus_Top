@@ -1,0 +1,9 @@
+[submodule "PCBs/APT-V01-FMC"]
+	path = PCBs/APT-V01-FMC
+	url = https://github.com/ApotheoTech/APT-V01-FMC.git
+[submodule "PCBs/Aper-Oculus"]
+	path = PCBs/Aper-Oculus
+	url = https://github.com/ApotheoTech/Aper-Oculus.git
+[submodule "HDL/EX_DZs/Aper-Oculus/gtaylormb_imx219"]
+	path = HDL/EX_DZs/Aper-Oculus/gtaylormb_imx219
+	url = https://github.com/ApotheoTech/gtaylormb_imx219.git
